@@ -23,3 +23,4 @@ while(n < 15) {
   n++
   return newArray;
 }
+}
