@@ -16,5 +16,10 @@ return facts;
 
 function iLoveTheBeatles(n) {
   var newArray = []
-  do
+  do{
+    newArray.push("I love the Beatles!")
+}
+while(n < 15) {
+  n++
+  return newArray;
 }
